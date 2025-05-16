@@ -2,3 +2,4 @@
 
 ## Deskripsi
 Ini tugas akhir UAS mata kuliah Pemrograman Berorientasi Objek
+Menggunakan NetBeans
